@@ -1,8 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Trung Hieu</h1>
 <h3 align="center">A passionate backend developer from Ho Chi Minh City</h3>
-<img alight="center" atl="Coding" width="400" 
-src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img alight="center" atl="Coding" width="300" 
+src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trunghieu0102&label=Profile%20views&color=0e75b6&style=flat" alt="trunghieu0102" /> </p>
