@@ -1,11 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Trung Hieu</h1>
 <h3 align="center">A passionate backend developer from Ho Chi Minh City</h3>
 <img alight="center" atl="Coding" width="300" 
 src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=trunghieu0102&label=Profile%20views&color=0e75b6&style=flat" alt="trunghieu0102" /> </p>
 
 - 🌱 I’m currently learning **Entity Framework, Abp Framework**
 
